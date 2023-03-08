@@ -1,3 +1,4 @@
-position = "23" 
+list = ['2','1','5']
 
-print(position[0])
+if '1' not in list:
+    print("teste") 
